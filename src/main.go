@@ -15,7 +15,7 @@ func main() {
 	var betAmount float64
 
 	for {
-		// Prompt for name
+		// Prompt for amount
 		fmt.Print("Enter bet amount (EUR): ")
 		fmt.Scanln(&betAmount) // Reads user input
 
